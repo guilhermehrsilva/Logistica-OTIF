@@ -1,5 +1,8 @@
 # 🚚 Dashboard de Logística e Supply Chain (OTIF)
 
+[Dashboard Preview](Dashboard/Projeto-03-Logistica-OTIF.pdf)
+*(Nota: Visualize o PDF para ver o layout final em alta resolução)*
+
 ## 🏢 O Desafio de Negócio
 Uma grande transportadora global precisava monitorar a eficiência de suas entregas, mas enfrentava um problema de dados: o sistema registrava as datas de envio, mas **não possuía uma "Data Prometida" clara** para comparação. Sem essa meta, era impossível calcular o **OTIF** (*On Time In Full* - Entregue no Prazo e Completo) e identificar gargalos reais na operação.
 
